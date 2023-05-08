@@ -1,0 +1,5 @@
+Metodologias Agiles
+Las metodologías ágiles son aquellas que permiten adaptar la forma de trabajo a las condiciones del proyecto
+-Scrum
+-Agile
+-Kanban
