@@ -1,4 +1,4 @@
-Metodología Tradicional.-
+1. Metodología Tradicional.-
 Las metodologías tradicionales imponen una disciplina de trabajo sobre el proceso 
 de desarrollo del software, para ello, se hace énfasis en la planificación total 
 de todo el trabajo a realizar y una vez que está todo detallado, comienza el ciclo
